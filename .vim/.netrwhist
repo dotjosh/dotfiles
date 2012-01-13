@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/ubuntu/dev/technetrack/app'
+let g:netrw_dirhist_2='/home/ubuntu/dev/technetrack/app/models'
+let g:netrw_dirhist_3='/home/ubuntu'
+let g:netrw_dirhist_4='/home'
+let g:netrw_dirhist_5='/'
+let g:netrw_dirhist_6='/home/ubuntu/dev/technetrack'
+let g:netrw_dirhist_7='/home/ubuntu/dev/technetrack/app'
+let g:netrw_dirhist_8='/home/ubuntu/dev/technetrack/app/controllers'
+let g:netrw_dirhist_9='/home/ubuntu'
